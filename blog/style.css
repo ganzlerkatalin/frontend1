@@ -50,6 +50,10 @@ nav {
     margin-left: 10px;
 }
 
+figure {
+    text-align:center;
+}
+
 footer {
     text-align: center;
 }
